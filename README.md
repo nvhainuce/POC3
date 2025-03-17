@@ -26,6 +26,4 @@ To get you started in the right direction, run these few commands
 - `yarn start` to run the project
 - `yarn test`to run the testing
 
-### Deployment
 
-The app is deployed with Netlify. You can see the deployed version of the app [here](https://noeline-mapbox-gl.netlify.app/)
